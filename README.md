@@ -1,7 +1,7 @@
-# <div align="center">Hey, there!</div>  
+## Hey there 👋  
   
 
-### <div align="center">I'm Camryn, a self-taught full-stack developer</div>  
+#### I'm Camryn, a self-taught full-stack developer  
   
 
 - 🔭 I’m working on adding to my portfolio   
@@ -10,10 +10,10 @@
 - 🌱 I'm a fast learner and eager to explore new technologies  
   
 
-- :gear: I use daily: <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.py</code>, <code>git</code>  
+- :gear: I use daily: <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.py</code>, <code>git</code> 
   
 
-- ⚡ Fun fact: I use the caps lock key instead of shift  
+- ⚡ Fun fact: I use my caps lock key instead of shift  
   
 
 <br/>  
@@ -39,7 +39,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=campatterson4&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=campatterson4&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
 
