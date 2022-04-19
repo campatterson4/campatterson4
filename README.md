@@ -4,7 +4,7 @@
 #### I'm Camryn, a self-taught full-stack developer  
   
 
-- 🔭 I’m working on adding to my portfolio   
+- 🔭 I’m working on building my portfolio   
   
 
 - 🌱 I'm a fast learner and eager to explore new technologies  
