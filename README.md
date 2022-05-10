@@ -13,7 +13,7 @@
 - :gear: I use daily: <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.py</code>, <code>git</code> 
   
 
-- ⚡ Fun fact: I use my caps lock key instead of shift  
+- ⚡ Fun fact: I use my caps lock key for uppercase letters instead of shift  
   
 
 <br/>  
