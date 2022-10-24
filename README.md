@@ -1,4 +1,4 @@
-## Hey there 👋  
+## Hello 👋  
   
 
 #### I'm Camryn, a self-taught full-stack developer  
